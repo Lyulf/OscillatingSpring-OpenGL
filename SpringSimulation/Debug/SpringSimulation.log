@@ -1,0 +1,8 @@
+﻿  SpringModel.cc
+e:\210901_spring\springsimulation\include\springsimulation\springmodel.hh(8): warning C4305: 'initializing': truncation from 'double' to 'const float'
+e:\210901_spring\springsimulation\source\springmodel.cc(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\210901_spring\springsimulation\source\springmodel.cc(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\210901_spring\springsimulation\source\springmodel.cc(98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\210901_spring\springsimulation\source\springmodel.cc(215): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SpringSimulation.vcxproj -> E:\210901_Spring\SpringSimulation\Debug\SpringSimulation.exe
+  SpringSimulation.vcxproj -> E:\210901_Spring\SpringSimulation\Debug\SpringSimulation.pdb (Partial PDB)
